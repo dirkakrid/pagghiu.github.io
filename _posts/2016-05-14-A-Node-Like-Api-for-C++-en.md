@@ -435,7 +435,8 @@ Being able to keep the same backend / logic code, independent of the UI Library 
 
 ## Where can you get this library?
 
-Nowhere, our business model is not open-source.
+Unfortunately nowhere, while it would be great to share, current company policy does not support open-source.
+I am available for questions on reddit, twitter or here!
 
 ## Some code extracted from our test-suite
 
